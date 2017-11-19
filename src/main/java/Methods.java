@@ -19,6 +19,12 @@ public class Methods {
         Thread.sleep(10000);
     }
 
+
+    public void getDotaSite(WebDriver driver) throws InterruptedException {
+        driver.get("https://betsdota2.com//login/");
+        Thread.sleep(10000);
+    }
+
     public void LogIn(WebDriver driver) throws InterruptedException {
         WebElement element = driver.findElement(By.id("steamAccountName"));
         element.sendKeys("kking_of_dark");
@@ -51,7 +57,7 @@ public class Methods {
         time = time.replaceAll("\\D", "");
         int result = Integer.parseInt(time);
        /* System.out.println("Left " +result);*/
-        if (result<10){
+        if (result<4){
             return true;
         } else {
             return false;

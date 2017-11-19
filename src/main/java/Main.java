@@ -32,6 +32,8 @@ while (true){
 
     if (count%2 == 0){
         methods.getDefaultSite(driver);
+    } else {
+        methods.getDotaSite(driver);
     }
     count++;
     Thread.sleep(5000);
@@ -98,7 +100,7 @@ while (true){
 
     }
 
-    Thread.sleep(540000);
+    Thread.sleep(60000);
 
 }
 
