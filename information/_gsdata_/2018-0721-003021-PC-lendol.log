@@ -1,0 +1,10 @@
+2018-07-21 00:30:24: -- Analysis Started by User Command
+2018-07-21 00:30:29: Изменений: 1, Конфликтов: 0, Копий Времени: 0, Копий Состояния: 0, Ошибок: 0, All: 180
+2018-07-21 00:30:29: Left to Right: Copy File: 1 
+2018-07-21 00:30:29: ----- Анализ завершён. Время 00:00:08, Скорость: 11 файлов/сек -----
+2018-07-21 00:30:29: 
+2018-07-21 00:30:32: == Sync Started by User Command
+2018-07-21 00:31:05: FTP: Control connection lost was after good data transfer, so we assume data transfer was OK: FTP Server Says: Idle timeout (30 seconds): closing control connection
+2018-07-21 00:31:09: Скопировано поверх 'D:/IDEA/lendol/src/main/resources/information/index.php' -> 'ftp://files.000webhost.com/index.php' (686)
+2018-07-21 00:31:12: ===== Синхронизация завершена. Время 00:00:42, Скорость: 17 байт/s файлов/сек =====, Синхронизировано: 1, Ошибок: 0
+2018-07-21 00:31:13: 

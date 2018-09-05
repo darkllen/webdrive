@@ -1,0 +1,94 @@
+2018-07-20 18:43:02: Connected to D:\IDEA\lendol\src\main\resources\information: D: NTFS: type=NTFS vol=disk flags=3E700FF
+2018-07-20 18:43:03: FTP: Use MLST/MLSD command to list files
+2018-07-20 18:43:03: Connected to ftp://files.000webhost.com/public_html: ProFTPD Server (000webhost.com) [::ffff:145.14.144.13]: Syst='UNIX Type: L8' Feat='Features:: AUTH TLS: CCC: CLNT: EPRT: EPSV: HOST: MDTM: MFF modify;UNIX.group;UNIX.mode;: MFMT: MLST modify*;perm*;size*;type*;unique*;UNIX.group*;UNIX.groupname*;UNIX.mode*;UNIX.owner*;UNIX.ownername*;: PBSZ: PROT: RANG STREAM: REST STREAM: SIZE: SSCN: TVFS:End'
+2018-07-20 18:43:04: Incremental Analyze for On File Change
+2018-07-20 18:43:05: -- Analysis Started by On File Change, After Delay, Under Runner
+2018-07-20 18:43:05: ----- Задание 'lendol': АНАЛИЗ запустил On File Change, After Delay, Under Runner на компьютере 'PC' (GoodSync вер. 10.9.2.2) -----
+2018-07-20 18:43:05: D:\IDEA\lendol\src\main\resources\information (D:/IDEA/lendol/src/main/resources/information) [TmpDest] <-> ftp://files.000webhost.com/public_html [TmpDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, OnFileChange Delay=5, Unattended, ChangeLimit=50, LinksIgnore
+2018-07-20 18:43:05: Искл. Скрытые, Искл. Системные, Исключено name *._gstmp|/System Volume Information|Thumbs.db|.DS_Store 
+2018-07-20 18:43:05: Locking folder D:/IDEA/lendol/src/main/resources/information for write
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.19 12.13(2) bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.19 12.13(2) bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 08.13 bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 08.13 bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 08.46 bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 08.46 bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 09.12 bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 09.12 bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 09.13 bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 09.13 bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 09.44 bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 09.44 bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 09.44(2) bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 09.44(2) bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 09.45 bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 09.45 bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 10.12 bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 10.12 bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 10.13 bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 10.13 bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 10.46 bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 10.46 bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 11.13 bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 11.13 bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 11.45 bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 11.45 bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 11.46 bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 11.46 bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 12.11 bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 12.11 bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 12.12 bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 12.12 bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 12.13 bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 12.13 bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 12.45 bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 12.45 bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 12.45(2) bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 12.45(2) bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 13.13 bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 13.13 bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 13.46 bash
+2018-07-20 18:43:05: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 13.46 bash
+2018-07-20 18:43:05: Locking folder ftp://files.000webhost.com/public_html for write
+2018-07-20 18:43:06: Требуемый размер для синхронизации на диске file:///D: : 0 байт, у Вас имеется 508 ГБ
+2018-07-20 18:43:06: On disk ftp://files.000webhost.com space required for sync is 22,0 КБ, free space is unknown
+2018-07-20 18:43:06: Изменений: 21, Конфликтов: 0, Копий Времени: 0, Копий Состояния: 0, Ошибок: 0, All: 46
+2018-07-20 18:43:06: Left to Right: Copy File: 21 
+2018-07-20 18:43:06: ----- Анализ завершён. Время 00:00:05, Скорость: 9 файлов/сек -----
+2018-07-20 18:43:06: Fraction of files changed (excluding renames) is low enough to perform Auto Sync: 46% (21 / 45) < 50%
+2018-07-20 18:43:06: == Sync Started by On File Change, After Delay, Under Runner
+2018-07-20 18:43:06: ===== Задание 'lendol': СИНХРОНИЗАЦИЮ запустил On File Change, After Delay, Under Runner на компьютере 'PC' =====
+2018-07-20 18:43:06: D:\IDEA\lendol\src\main\resources\information (D:/IDEA/lendol/src/main/resources/information) [TmpDest] <-> ftp://files.000webhost.com/public_html [TmpDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, OnFileChange Delay=5, Unattended, ChangeLimit=50, LinksIgnore
+2018-07-20 18:43:07: Load Recycled DB: ftp://files.000webhost.com/public_html/_gsdata_/_recycled_db._gs
+2018-07-20 18:43:08: Скопировано поверх 'D:/IDEA/lendol/src/main/resources/information/2018.07.19 12.13(2) bash' -> 'ftp://files.000webhost.com/public_html/2018.07.19 12.13(2) bash' (408)
+2018-07-20 18:43:09: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/2018.07.20 08.13 bash' -> 'ftp://files.000webhost.com/public_html/2018.07.20 08.13 bash' (398)
+2018-07-20 18:43:11: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/2018.07.20 08.46 bash' -> 'ftp://files.000webhost.com/public_html/2018.07.20 08.46 bash' (446)
+2018-07-20 18:43:12: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/2018.07.20 09.12 bash' -> 'ftp://files.000webhost.com/public_html/2018.07.20 09.12 bash' (197)
+2018-07-20 18:43:13: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/2018.07.20 09.13 bash' -> 'ftp://files.000webhost.com/public_html/2018.07.20 09.13 bash' (565)
+2018-07-20 18:43:14: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/2018.07.20 09.44 bash' -> 'ftp://files.000webhost.com/public_html/2018.07.20 09.44 bash' (330)
+2018-07-20 18:43:16: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/2018.07.20 09.44(2) bash' -> 'ftp://files.000webhost.com/public_html/2018.07.20 09.44(2) bash' (557)
+2018-07-20 18:43:17: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/2018.07.20 09.45 bash' -> 'ftp://files.000webhost.com/public_html/2018.07.20 09.45 bash' (369)
+2018-07-20 18:43:18: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/2018.07.20 10.12 bash' -> 'ftp://files.000webhost.com/public_html/2018.07.20 10.12 bash' (211)
+2018-07-20 18:43:19: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/2018.07.20 10.13 bash' -> 'ftp://files.000webhost.com/public_html/2018.07.20 10.13 bash' (1 515)
+2018-07-20 18:43:21: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/2018.07.20 10.46 bash' -> 'ftp://files.000webhost.com/public_html/2018.07.20 10.46 bash' (248)
+2018-07-20 18:43:22: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/2018.07.20 11.13 bash' -> 'ftp://files.000webhost.com/public_html/2018.07.20 11.13 bash' (169)
+2018-07-20 18:43:23: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/2018.07.20 11.45 bash' -> 'ftp://files.000webhost.com/public_html/2018.07.20 11.45 bash' (793)
+2018-07-20 18:43:24: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/2018.07.20 11.46 bash' -> 'ftp://files.000webhost.com/public_html/2018.07.20 11.46 bash' (622)
+2018-07-20 18:43:26: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/2018.07.20 12.11 bash' -> 'ftp://files.000webhost.com/public_html/2018.07.20 12.11 bash' (185)
+2018-07-20 18:43:27: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/2018.07.20 12.12 bash' -> 'ftp://files.000webhost.com/public_html/2018.07.20 12.12 bash' (635)
+2018-07-20 18:43:28: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/2018.07.20 12.13 bash' -> 'ftp://files.000webhost.com/public_html/2018.07.20 12.13 bash' (148)
+2018-07-20 18:43:29: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/2018.07.20 12.45 bash' -> 'ftp://files.000webhost.com/public_html/2018.07.20 12.45 bash' (347)
+2018-07-20 18:43:31: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/2018.07.20 12.45(2) bash' -> 'ftp://files.000webhost.com/public_html/2018.07.20 12.45(2) bash' (916)
+2018-07-20 18:43:32: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/2018.07.20 13.13 bash' -> 'ftp://files.000webhost.com/public_html/2018.07.20 13.13 bash' (528)
+2018-07-20 18:43:33: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/2018.07.20 13.46 bash' -> 'ftp://files.000webhost.com/public_html/2018.07.20 13.46 bash' (535)
+2018-07-20 18:43:33: Сохраняю файл состояний D:/IDEA/lendol/src/main/resources/information/_gsdata_/_file_state_v4._gs
+2018-07-20 18:43:34: Сохраняю файл состояний ftp://files.000webhost.com/public_html/_gsdata_/_file_state_v4._gs
+2018-07-20 18:43:34: Cleanup recycled files in D:/IDEA/lendol/src/main/resources/information/_gsdata_/_saved_
+2018-07-20 18:43:34: Cleanup old logs in D:/IDEA/lendol/src/main/resources/information/_gsdata_
+2018-07-20 18:43:34: Cleanup recycled files in ftp://files.000webhost.com/public_html/_gsdata_/_saved_
+2018-07-20 18:43:35: Save Recycled DB: ftp://files.000webhost.com/public_html/_gsdata_/_recycled_db._gs
+2018-07-20 18:43:35: Cleanup old logs in ftp://files.000webhost.com/public_html/_gsdata_
+2018-07-20 18:43:35: ===== Синхронизация завершена. Время 00:00:29, Скорость: 5,94 КБ/s файлов/сек =====, Синхронизировано: 21, Ошибок: 0
+2018-07-20 18:43:35: Unlocking folder D:/IDEA/lendol/src/main/resources/information/_gsdata_/lock.gsl
+2018-07-20 18:43:35: Unlocking folder ftp://files.000webhost.com/public_html/_gsdata_/lock.gsl
+2018-07-20 18:43:35: 

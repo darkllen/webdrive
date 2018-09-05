@@ -1,0 +1,29 @@
+2018-07-22 21:36:52: Turning Off Copy Attributes, as one of file systems does not support it
+2018-07-22 21:36:52: Turning Off Copy Symbolic Links, as one of file systems does not support it. You may want to consider using Job -> Options -> Advanced -> Links -> Drill Down, if you need to copy folder to which the link points
+2018-07-22 21:36:56: -- Analysis Started by User Command
+2018-07-22 21:36:56: FTP: MLSD is broken, so turn it off: PASV says: 250: OK. Current directory is /_gsdata_
+2018-07-22 21:37:02: Not using/deleting cached state file, because remote state file has changed since last Sync:
+State file: ftp://files.000webhost.com/_gsdata_/_file_state_v4._gs
+name=_file_state_v4._gs folder=0 link=0 file=1 attrs=0 size=1918 mod-time=2018-07-22 21:29:00 cre-time=2018-07-22 21:29:00 ab=0 ckt=0 cks= dsply= cmnt= != 
+name=_file_state_v4._gs folder=0 link=0 file=1 attrs=0 size=1918 mod-time=2018-07-22 21:29:25 cre-time=2018-07-22 21:29:25 ab=0 ckt=0 cks= dsply= cmnt=
+2018-07-22 21:37:09: Not using/deleting cached state file, because remote state file has changed since last Sync:
+State file: ftp://files.000webhost.com/public_html/_gsdata_/_file_state_v4._gs
+name= folder=1 link=0 file=0 attrs=0 size=0 mod-time=(null-time) cre-time=(null-time) ab=0 ckt=0 cks= dsply= cmnt= != 
+name=_file_state_v4._gs folder=0 link=0 file=1 attrs=0 size=1412 mod-time=2018-07-22 21:29:24 cre-time=2018-07-22 21:29:24 ab=0 ckt=0 cks= dsply= cmnt=
+2018-07-22 21:37:09: Справа: State file does not exist: ftp://files.000webhost.com/public_html/_gsdata_/_file_state_v4._gs
+2018-07-22 21:37:09: Cannot read folder ftp://files.000webhost.com/public_html/files: Server says: Can't change directory to /public_html/_gsdata_/_file_state_v4._gs: Not a directory
+2018-07-22 21:37:09: Cannot read folder ftp://files.000webhost.com/tmp: listing folder with LIST: PASV says: 250: OK. Current directory is /tmp
+2018-07-22 21:37:09: /public_html/index.php: L:TimeSize<>; Конфликт: файл изменен с двух сторон
+2018-07-22 21:37:09: /public_html/.htaccess: R:TimeSize<>; Внимание: Новый файл заменяется старым
+2018-07-22 21:37:09: Исключите конфликты выбором правильного направления синхронизации
+2018-07-22 21:37:09: Изменений: 46, Конфликтов: 1, Копий Времени: 0, Копий Состояния: 0, Ошибок: 43, All: 180
+2018-07-22 21:37:09: Right to Left: Copy File: 2 
+2018-07-22 21:37:09: ----- Анализ завершён. Время 00:00:18, Скорость: 2 файлов/сек -----
+2018-07-22 21:37:09: 
+2018-07-22 21:37:48: == Sync Started by User Command
+2018-07-22 21:37:49: Please click Analyze again because another job has Synced and it invalidated analysis results of this job.
+State file: ftp://files.000webhost.com/_gsdata_/_file_state_v4._gs
+new: [size=1 918 time=2018-07-22 21:29:25] != 
+old: [size=1 918 time=2018-07-22 21:29:00]
+
+2018-07-22 21:37:49: 

@@ -1,0 +1,16 @@
+2018-07-20 18:21:31: Turning Off Copy Attributes, as one of file systems does not support it
+2018-07-20 18:21:31: Turning Off Copy Symbolic Links, as one of file systems does not support it. You may want to consider using Job -> Options -> Advanced -> Links -> Drill Down, if you need to copy folder to which the link points
+2018-07-20 18:21:32: -- Analysis Started by User Command
+2018-07-20 18:21:32: Слева: State file does not exist: D:/IDEA/lendol/src/main/resources/information/_gsdata_/_file_state_v4._gs
+2018-07-20 18:21:33: Справа: State file does not exist: ftp://files.000webhost.com/public_html/_gsdata_/_file_state_v4._gs
+2018-07-20 18:21:33: Изменений: 3, Конфликтов: 0, Копий Времени: 0, Копий Состояния: 21, Ошибок: 0, All: 25
+2018-07-20 18:21:33: Left to Right: Copy File: 1 
+2018-07-20 18:21:33: Right to Left: Copy File: 2 
+2018-07-20 18:21:33: ----- Анализ завершён. Время 00:00:04, Скорость: 6 файлов/сек -----
+2018-07-20 18:21:33: 
+2018-07-20 18:21:52: == Sync Started by User Command
+2018-07-20 18:21:55: Скопирован новый 'ftp://files.000webhost.com/public_html/.htaccess' -> 'D:/IDEA/lendol/src/main/resources/information/.htaccess' (168)
+2018-07-20 18:21:56: Скопирован новый 'ftp://files.000webhost.com/public_html/index.html' -> 'D:/IDEA/lendol/src/main/resources/information/index.html' (132)
+2018-07-20 18:21:57: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/kjk.txt' -> 'ftp://files.000webhost.com/public_html/kjk.txt' (0)
+2018-07-20 18:21:59: ===== Синхронизация завершена. Время 00:00:09, Скорость: 26,2 КБ/s файлов/сек =====, Синхронизировано: 24, Ошибок: 0
+2018-07-20 18:21:59: 

@@ -1,9 +1,15 @@
+import org.openqa.selenium.WebDriver;
+
+import java.sql.SQLException;
+
 /**
  * Created by user on 28.10.2017.
  */
 public class Main_Test {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException, SQLException {
         Methods methods = new Methods();
-        System.out.println(methods.CheckTime("00x04t"));
+        WebDriver driver = methods.getDriver();
+
+
     }
 }

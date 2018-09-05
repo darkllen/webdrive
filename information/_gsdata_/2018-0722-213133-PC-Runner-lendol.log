@@ -1,0 +1,48 @@
+2018-07-22 21:31:34: Connected to D:\IDEA\lendol\src\main\resources\information: D: NTFS: type=NTFS vol=disk flags=3E700FF
+2018-07-22 21:31:35: FTP: Use MLST/MLSD command to list files
+2018-07-22 21:31:35: Connected to ftp://files.000webhost.com: ProFTPD Server (000webhost.com) [::ffff:145.14.145.4]: Syst='UNIX Type: L8' Feat='Features:: AUTH TLS: CCC: CLNT: EPRT: EPSV: HOST: MDTM: MFF modify;UNIX.group;UNIX.mode;: MFMT: MLST modify*;perm*;size*;type*;unique*;UNIX.group*;UNIX.groupname*;UNIX.mode*;UNIX.owner*;UNIX.ownername*;: PBSZ: PROT: RANG STREAM: REST STREAM: SIZE: SSCN: TVFS:End'
+2018-07-22 21:31:35: Incremental Analyze for On File Change
+2018-07-22 21:31:36: -- Analysis Started by On File Change, After Delay, Under Runner
+2018-07-22 21:31:36: ----- Задание 'lendol': АНАЛИЗ запустил On File Change, After Delay, Under Runner на компьютере 'PC' (GoodSync вер. 10.9.2.2) -----
+2018-07-22 21:31:36: D:\IDEA\lendol\src\main\resources\information (D:/IDEA/lendol/src/main/resources/information) [TmpDest] <-> ftp://files.000webhost.com [TmpDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, OnFileChange Delay=1, Unattended, ChangeLimit=50, CopyAttrs, LinksCopy
+2018-07-22 21:31:36: Искл. Скрытые, Искл. Системные, Исключено name *._gstmp|/System Volume Information|Thumbs.db|.DS_Store 
+2018-07-22 21:31:36: Locking folder D:/IDEA/lendol/src/main/resources/information for write
+2018-07-22 21:31:36: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/public_html/index.php
+2018-07-22 21:31:36: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/public_html/index.php
+2018-07-22 21:31:36: Locking folder ftp://files.000webhost.com for write
+2018-07-22 21:31:38: Требуемый размер для синхронизации на диске file:///D: : 0 байт, у Вас имеется 508 ГБ
+2018-07-22 21:31:38: On disk ftp://files.000webhost.com space required for sync is 2,00 КБ, free space is unknown
+2018-07-22 21:31:38: Изменений: 1, Конфликтов: 0, Копий Времени: 0, Копий Состояния: 0, Ошибок: 0, All: 180
+2018-07-22 21:31:38: Left to Right: Copy File: 1 
+2018-07-22 21:31:38: ----- Анализ завершён. Время 00:00:05, Скорость: 9 файлов/сек -----
+2018-07-22 21:31:38: Fraction of files changed (excluding renames) is low enough to perform Auto Sync: 2% (1 / 49) < 50%
+2018-07-22 21:31:38: == Sync Started by On File Change, After Delay, Under Runner
+2018-07-22 21:31:38: ===== Задание 'lendol': СИНХРОНИЗАЦИЮ запустил On File Change, After Delay, Under Runner на компьютере 'PC' =====
+2018-07-22 21:31:38: D:\IDEA\lendol\src\main\resources\information (D:/IDEA/lendol/src/main/resources/information) [TmpDest] <-> ftp://files.000webhost.com [TmpDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, OnFileChange Delay=1, Unattended, ChangeLimit=50, CopyAttrs, LinksCopy
+2018-07-22 21:31:42: Cannot Load Recycled DB: server says after data transfer: 500: RETR: Connection timed out
+2018-07-22 21:31:43: Скопировано поверх 'D:/IDEA/lendol/src/main/resources/information/public_html/index.php' -> 'ftp://files.000webhost.com/public_html/index.php' (1 148)
+- ОШИБКА: Cannot rename temp file to destination file: cannot RNFR: File successfully transferred
+0.000 seconds (measured here), 502.41 Kbytes per second
+2018-07-22 21:31:43: Сохраняю файл состояний /public_html
+- ERROR: Cannot upload temp state file: chdir when upload: /public_html/_gsdata_/_file_state_upload.tmp: Server says: RNFR accepted - file exists, ready for destination
+2018-07-22 21:31:43: Сохраняю файл состояний D:/IDEA/lendol/src/main/resources/information/_gsdata_/_file_state_v4._gs
+2018-07-22 21:31:43: Сохраняю файл состояний 
+- ERROR: Cannot upload temp state file: PASV says: 250: OK. Current directory is /public_html/_gsdata_
+2018-07-22 21:31:43: Синхронизация завершена. Ошибок - 3. Нажмите кнопку Ошибки для просмотра ошибок, возникших при синхронизации
+2018-07-22 21:31:43: Cleanup recycled files in D:/IDEA/lendol/src/main/resources/information/_gsdata_/_saved_
+2018-07-22 21:31:43: Load Recycled DB: D:/IDEA/lendol/src/main/resources/information/_gsdata_/_recycled_db._gs
+2018-07-22 21:31:43: Cleanup old logs in D:/IDEA/lendol/src/main/resources/information/_gsdata_
+2018-07-22 21:31:43: Cleanup recycled files in ftp://files.000webhost.com/_gsdata_/_saved_
+2018-07-22 21:31:43: FTP: Listing one file returns wrong file: _recycled_db._gs != _saved_
+2018-07-22 21:31:43: FTP: MLSD is broken, so turn it off: PASV says: 250: Begin
+ type=dir;sizd=100;modify=20180720211045;UNIX.mode=0755;UNIX.uid=6554075;UNIX.gid=6554075;unique=803g61a4f8fd; _saved_
+End.
+2018-07-22 21:31:43: Cannot Recycle: PASV says: 150: Connecting to port 54021
+2018-07-22 21:31:43: Cleanup old logs in ftp://files.000webhost.com/_gsdata_
+2018-07-22 21:32:13: Waiting for 8 sec on verb PASV: FTP Server Says: Idle timeout (30 seconds): closing control connection
+2018-07-22 21:32:23: FTP: Use MLST/MLSD command to list files
+2018-07-22 21:32:24: Save Recycled DB: ftp://files.000webhost.com/_gsdata_/_recycled_db._gs
+2018-07-22 21:32:24: ===== Синхронизация завершена. Время 00:00:46, Скорость: 229 байт/s файлов/сек =====, Синхронизировано: 0, Ошибок: 3
+2018-07-22 21:32:24: Deleted lock file D:/IDEA/lendol/src/main/resources/information/_gsdata_/lock.gsl
+2018-07-22 21:32:24: Deleted lock file ftp://files.000webhost.com/_gsdata_/lock.gsl
+2018-07-22 21:32:24: 

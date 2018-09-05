@@ -1,0 +1,33 @@
+2018-07-20 20:37:49: Connected to D:\IDEA\lendol\src\main\resources\information: D: NTFS: type=NTFS vol=disk flags=3E700FF
+2018-07-20 20:37:50: FTP: Use MLST/MLSD command to list files
+2018-07-20 20:37:50: Connected to ftp://files.000webhost.com/public_html: ProFTPD Server (000webhost.com) [::ffff:145.14.145.99]: Syst='UNIX Type: L8' Feat='Features:: AUTH TLS: CCC: CLNT: EPRT: EPSV: HOST: MDTM: MFF modify;UNIX.group;UNIX.mode;: MFMT: MLST modify*;perm*;size*;type*;unique*;UNIX.group*;UNIX.groupname*;UNIX.mode*;UNIX.owner*;UNIX.ownername*;: PBSZ: PROT: RANG STREAM: REST STREAM: SIZE: SSCN: TVFS:End'
+2018-07-20 20:37:50: Incremental Analyze for On File Change
+2018-07-20 20:37:51: -- Analysis Started by On File Change, After Delay, Under Runner
+2018-07-20 20:37:51: ----- Задание 'lendol': АНАЛИЗ запустил On File Change, After Delay, Under Runner на компьютере 'PC' (GoodSync вер. 10.9.2.2) -----
+2018-07-20 20:37:51: D:\IDEA\lendol\src\main\resources\information (D:/IDEA/lendol/src/main/resources/information) [TmpDest] <-> ftp://files.000webhost.com/public_html [TmpDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, OnFileChange Delay=5, Unattended, ChangeLimit=50, LinksIgnore
+2018-07-20 20:37:51: Искл. Скрытые, Искл. Системные, Исключено name *._gstmp|/System Volume Information|Thumbs.db|.DS_Store 
+2018-07-20 20:37:51: Locking folder D:/IDEA/lendol/src/main/resources/information for write
+2018-07-20 20:37:51: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/index.html
+2018-07-20 20:37:51: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/index.php
+2018-07-20 20:37:51: Locking folder ftp://files.000webhost.com/public_html for write
+2018-07-20 20:37:53: Требуемый размер для синхронизации на диске file:///D: : 0 байт, у Вас имеется 508 ГБ
+2018-07-20 20:37:53: On disk ftp://files.000webhost.com space required for sync is 0 байт, free space is unknown
+2018-07-20 20:37:53: Изменений: 2, Конфликтов: 0, Копий Времени: 0, Копий Состояния: 0, Ошибок: 0, All: 47
+2018-07-20 20:37:53: Left to Right: Rename/Move File/Folder: 2 
+2018-07-20 20:37:53: ----- Анализ завершён. Время 00:00:05, Скорость: 9 файлов/сек -----
+2018-07-20 20:37:53: Fraction of files changed (excluding renames) is low enough to perform Auto Sync: 0% (0 / 45) < 50%
+2018-07-20 20:37:53: == Sync Started by On File Change, After Delay, Under Runner
+2018-07-20 20:37:53: ===== Задание 'lendol': СИНХРОНИЗАЦИЮ запустил On File Change, After Delay, Under Runner на компьютере 'PC' =====
+2018-07-20 20:37:53: D:\IDEA\lendol\src\main\resources\information (D:/IDEA/lendol/src/main/resources/information) [TmpDest] <-> ftp://files.000webhost.com/public_html [TmpDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, OnFileChange Delay=5, Unattended, ChangeLimit=50, LinksIgnore
+2018-07-20 20:37:53: Перемещение ftp://files.000webhost.com/public_html/index.html -> ftp://files.000webhost.com/public_html/index.php
+2018-07-20 20:37:53: Сохраняю файл состояний D:/IDEA/lendol/src/main/resources/information/_gsdata_/_file_state_v4._gs
+2018-07-20 20:37:54: Сохраняю файл состояний ftp://files.000webhost.com/public_html/_gsdata_/_file_state_v4._gs
+2018-07-20 20:37:54: Cleanup recycled files in D:/IDEA/lendol/src/main/resources/information/_gsdata_/_saved_
+2018-07-20 20:37:54: Cleanup old logs in D:/IDEA/lendol/src/main/resources/information/_gsdata_
+2018-07-20 20:37:54: Cleanup recycled files in ftp://files.000webhost.com/public_html/_gsdata_/_saved_
+2018-07-20 20:37:55: Load Recycled DB: ftp://files.000webhost.com/public_html/_gsdata_/_recycled_db._gs
+2018-07-20 20:37:55: Cleanup old logs in ftp://files.000webhost.com/public_html/_gsdata_
+2018-07-20 20:37:55: ===== Синхронизация завершена. Время 00:00:02, Скорость: 0 байт/s файлов/сек =====, Синхронизировано: 2, Ошибок: 0
+2018-07-20 20:37:55: Unlocking folder D:/IDEA/lendol/src/main/resources/information/_gsdata_/lock.gsl
+2018-07-20 20:37:55: Unlocking folder ftp://files.000webhost.com/public_html/_gsdata_/lock.gsl
+2018-07-20 20:37:55: 

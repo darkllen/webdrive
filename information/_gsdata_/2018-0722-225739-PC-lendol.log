@@ -1,0 +1,15 @@
+2018-07-22 22:57:42: -- Analysis Started by User Command
+2018-07-22 22:57:48: Cannot read folder ftp://files.000webhost.com/public_html: Cannot download state file: ftp://files.000webhost.com/public_html/_gsdata_/_file_state_v4._gs: server says after data transfer: 500: RETR: Connection timed out
+2018-07-22 22:57:48: FTP: MLSD is broken, so turn it off: PASV says: 250: OK. Current directory is /tmp
+2018-07-22 22:57:48: Cannot read folder ftp://files.000webhost.com/tmp: listing folder with LIST: cannot start transfer: 227: Entering Passive Mode (145,14,145,229,184,240).
+2018-07-22 22:57:48: Во время Анализа возникли ошибки. Нажмите кнопку Ошибки для их просмотра.
+2018-07-22 22:57:48: Изменений: 90, Конфликтов: 0, Копий Времени: 0, Копий Состояния: 0, Ошибок: 91, All: 180
+2018-07-22 22:57:48: ----- Анализ завершён. Время 00:00:09, Скорость: 5 файлов/сек -----
+2018-07-22 22:57:48: 
+2018-07-22 22:57:53: == Sync Started by User Command
+2018-07-22 22:57:55: Please click Analyze again because another job has Synced and it invalidated analysis results of this job.
+State file: ftp://files.000webhost.com/public_html/_gsdata_/_file_state_v4._gs
+new: [size=1 559 time=2018-07-22 22:57:13] != 
+old: [size=(1) time=(null-time)]
+
+2018-07-22 22:57:55: 

@@ -1,0 +1,141 @@
+2018-07-21 00:21:54: Turning Off Copy Attributes, as one of file systems does not support it
+2018-07-21 00:21:54: Turning Off Copy Symbolic Links, as one of file systems does not support it. You may want to consider using Job -> Options -> Advanced -> Links -> Drill Down, if you need to copy folder to which the link points
+2018-07-21 00:21:55: -- Analysis Started by User Command
+2018-07-21 00:21:56: Справа: State file does not exist: ftp://files.000webhost.com/_gsdata_/_file_state_v4._gs
+2018-07-21 00:22:00: Изменений: 90, Конфликтов: 0, Копий Времени: 0, Копий Состояния: 88, Ошибок: 0, All: 180
+2018-07-21 00:22:00: Left to Right: Copy File: 44 
+2018-07-21 00:22:00: Right to Left: Copy File: 46 
+2018-07-21 00:22:00: ----- Анализ завершён. Время 00:00:07, Скорость: 13 файлов/сек -----
+2018-07-21 00:22:00: 
+2018-07-21 00:22:12: == Sync Started by User Command
+2018-07-21 00:22:15: Создана Папка 'ftp://files.000webhost.com/files'
+2018-07-21 00:22:15: Создана Папка 'D:/IDEA/lendol/src/main/resources/information/public_html'
+2018-07-21 00:22:15: Создана Папка 'D:/IDEA/lendol/src/main/resources/information/public_html/files'
+2018-07-21 00:22:15: Создана Папка 'D:/IDEA/lendol/src/main/resources/information/tmp'
+2018-07-21 00:22:17: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/.htaccess' -> 'ftp://files.000webhost.com/.htaccess' (192)
+2018-07-21 00:22:19: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 08.13 bash' -> 'ftp://files.000webhost.com/files/2018.07.19 08.13 bash' (300)
+2018-07-21 00:22:20: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 08.44 bash' -> 'ftp://files.000webhost.com/files/2018.07.19 08.44 bash' (940)
+2018-07-21 00:22:21: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 08.44(2) bash' -> 'ftp://files.000webhost.com/files/2018.07.19 08.44(2) bash' (1 052)
+2018-07-21 00:22:22: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 08.45 bash' -> 'ftp://files.000webhost.com/files/2018.07.19 08.45 bash' (1 000)
+2018-07-21 00:22:24: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 09.11 bash' -> 'ftp://files.000webhost.com/files/2018.07.19 09.11 bash' (1 144)
+2018-07-21 00:22:25: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 09.12 bash' -> 'ftp://files.000webhost.com/files/2018.07.19 09.12 bash' (486)
+2018-07-21 00:22:26: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 09.13 bash' -> 'ftp://files.000webhost.com/files/2018.07.19 09.13 bash' (528)
+2018-07-21 00:22:28: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 09.45 bash' -> 'ftp://files.000webhost.com/files/2018.07.19 09.45 bash' (623)
+2018-07-21 00:22:29: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 09.46 bash' -> 'ftp://files.000webhost.com/files/2018.07.19 09.46 bash' (784)
+2018-07-21 00:22:30: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 10.12 bash' -> 'ftp://files.000webhost.com/files/2018.07.19 10.12 bash' (499)
+2018-07-21 00:22:31: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 10.12(2) bash' -> 'ftp://files.000webhost.com/files/2018.07.19 10.12(2) bash' (634)
+2018-07-21 00:22:33: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 10.46 bash' -> 'ftp://files.000webhost.com/files/2018.07.19 10.46 bash' (440)
+2018-07-21 00:22:34: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 11.11 bash' -> 'ftp://files.000webhost.com/files/2018.07.19 11.11 bash' (436)
+2018-07-21 00:22:35: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 11.12 bash' -> 'ftp://files.000webhost.com/files/2018.07.19 11.12 bash' (699)
+2018-07-21 00:22:36: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 11.13 bash' -> 'ftp://files.000webhost.com/files/2018.07.19 11.13 bash' (208)
+2018-07-21 00:22:38: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 11.44 bash' -> 'ftp://files.000webhost.com/files/2018.07.19 11.44 bash' (1 333)
+2018-07-21 00:22:39: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 11.45 bash' -> 'ftp://files.000webhost.com/files/2018.07.19 11.45 bash' (1 487)
+2018-07-21 00:22:40: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 11.45(2) bash' -> 'ftp://files.000webhost.com/files/2018.07.19 11.45(2) bash' (1 173)
+2018-07-21 00:22:42: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 12.12 bash' -> 'ftp://files.000webhost.com/files/2018.07.19 12.12 bash' (238)
+2018-07-21 00:22:43: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 12.13 bash' -> 'ftp://files.000webhost.com/files/2018.07.19 12.13 bash' (408)
+2018-07-21 00:22:44: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 12.13(2) bash' -> 'ftp://files.000webhost.com/files/2018.07.19 12.13(2) bash' (408)
+2018-07-21 00:22:45: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 08.13 bash' -> 'ftp://files.000webhost.com/files/2018.07.20 08.13 bash' (398)
+2018-07-21 00:22:47: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 08.46 bash' -> 'ftp://files.000webhost.com/files/2018.07.20 08.46 bash' (446)
+2018-07-21 00:22:48: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 09.12 bash' -> 'ftp://files.000webhost.com/files/2018.07.20 09.12 bash' (197)
+2018-07-21 00:22:49: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 09.13 bash' -> 'ftp://files.000webhost.com/files/2018.07.20 09.13 bash' (565)
+2018-07-21 00:22:51: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 09.44 bash' -> 'ftp://files.000webhost.com/files/2018.07.20 09.44 bash' (330)
+2018-07-21 00:22:52: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 09.44(2) bash' -> 'ftp://files.000webhost.com/files/2018.07.20 09.44(2) bash' (557)
+2018-07-21 00:22:53: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 09.45 bash' -> 'ftp://files.000webhost.com/files/2018.07.20 09.45 bash' (369)
+2018-07-21 00:22:54: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 10.12 bash' -> 'ftp://files.000webhost.com/files/2018.07.20 10.12 bash' (211)
+2018-07-21 00:22:56: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 10.13 bash' -> 'ftp://files.000webhost.com/files/2018.07.20 10.13 bash' (1 515)
+2018-07-21 00:22:57: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 10.46 bash' -> 'ftp://files.000webhost.com/files/2018.07.20 10.46 bash' (248)
+2018-07-21 00:22:58: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 11.13 bash' -> 'ftp://files.000webhost.com/files/2018.07.20 11.13 bash' (169)
+2018-07-21 00:22:59: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 11.45 bash' -> 'ftp://files.000webhost.com/files/2018.07.20 11.45 bash' (793)
+2018-07-21 00:23:01: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 11.46 bash' -> 'ftp://files.000webhost.com/files/2018.07.20 11.46 bash' (622)
+2018-07-21 00:23:02: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 12.11 bash' -> 'ftp://files.000webhost.com/files/2018.07.20 12.11 bash' (185)
+2018-07-21 00:23:03: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 12.12 bash' -> 'ftp://files.000webhost.com/files/2018.07.20 12.12 bash' (635)
+2018-07-21 00:23:05: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 12.13 bash' -> 'ftp://files.000webhost.com/files/2018.07.20 12.13 bash' (148)
+2018-07-21 00:23:06: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 12.45 bash' -> 'ftp://files.000webhost.com/files/2018.07.20 12.45 bash' (347)
+2018-07-21 00:23:07: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 12.45(2) bash' -> 'ftp://files.000webhost.com/files/2018.07.20 12.45(2) bash' (916)
+2018-07-21 00:23:08: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 13.13 bash' -> 'ftp://files.000webhost.com/files/2018.07.20 13.13 bash' (528)
+2018-07-21 00:23:10: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 13.46 bash' -> 'ftp://files.000webhost.com/files/2018.07.20 13.46 bash' (535)
+2018-07-21 00:23:11: Скопирован новый 'D:/IDEA/lendol/src/main/resources/information/index.php' -> 'ftp://files.000webhost.com/index.php' (427)
+2018-07-21 00:23:12: Скопирован новый 'ftp://files.000webhost.com/public_html/.htaccess' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/.htaccess' (192)
+2018-07-21 00:23:12: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.19 08.13 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.19 08.13 bash' (300)
+2018-07-21 00:23:13: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.19 08.44 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.19 08.44 bash' (940)
+2018-07-21 00:23:14: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.19 08.44(2) bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.19 08.44(2) bash' (1 052)
+2018-07-21 00:23:14: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.19 08.45 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.19 08.45 bash' (1 000)
+2018-07-21 00:23:15: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.19 09.11 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.19 09.11 bash' (1 144)
+2018-07-21 00:23:15: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.19 09.12 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.19 09.12 bash' (486)
+2018-07-21 00:23:16: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.19 09.13 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.19 09.13 bash' (528)
+2018-07-21 00:23:16: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.19 09.45 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.19 09.45 bash' (623)
+2018-07-21 00:23:17: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.19 09.46 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.19 09.46 bash' (784)
+2018-07-21 00:23:18: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.19 10.12 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.19 10.12 bash' (499)
+2018-07-21 00:23:18: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.19 10.12(2) bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.19 10.12(2) bash' (634)
+2018-07-21 00:23:19: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.19 10.46 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.19 10.46 bash' (440)
+2018-07-21 00:23:19: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.19 11.11 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.19 11.11 bash' (436)
+2018-07-21 00:23:20: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.19 11.12 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.19 11.12 bash' (699)
+2018-07-21 00:23:20: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.19 11.13 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.19 11.13 bash' (208)
+2018-07-21 00:23:21: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.19 11.44 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.19 11.44 bash' (1 333)
+2018-07-21 00:23:24: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.19 11.45 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.19 11.45 bash' (1 487)
+- ОШИБКА: Error copying file: server says after data transfer: 500: RETR: Connection timed out
+2018-07-21 00:23:25: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.19 11.45(2) bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.19 11.45(2) bash' (1 173)
+- ОШИБКА: Error copying file: cannot start transfer: 200: PORT command successful
+2018-07-21 00:23:25: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.19 12.12 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.19 12.12 bash' (238)
+- ОШИБКА: Error copying file: PASV says: 150: Connecting to port 48073
+2018-07-21 00:23:25: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.19 12.13 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.19 12.13 bash' (408)
+- ОШИБКА: Error copying file: PASV says: 226: File successfully transferred
+0.000 seconds (measured here), 12.55 Mbytes per second
+2018-07-21 00:23:32: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.19 12.13(2) bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.19 12.13(2) bash' (408)
+- ОШИБКА: Error copying file: server says after data transfer: 500: RETR: Connection timed out
+2018-07-21 00:23:32: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.20 08.13 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.20 08.13 bash' (398)
+- ОШИБКА: Error copying file: cannot start transfer: 200: PORT command successful
+2018-07-21 00:23:32: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.20 08.46 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.20 08.46 bash' (446)
+- ОШИБКА: Error copying file: PASV says: 150: Connecting to port 37793
+2018-07-21 00:23:32: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.20 09.12 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.20 09.12 bash' (197)
+- ОШИБКА: Error copying file: PASV says: 226: File successfully transferred
+0.000 seconds (measured here), 4.63 Mbytes per second
+2018-07-21 00:23:36: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.20 09.13 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.20 09.13 bash' (565)
+2018-07-21 00:23:36: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.20 09.44 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.20 09.44 bash' (330)
+2018-07-21 00:23:37: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.20 09.44(2) bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.20 09.44(2) bash' (557)
+2018-07-21 00:23:38: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.20 09.45 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.20 09.45 bash' (369)
+2018-07-21 00:23:41: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.20 10.12 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.20 10.12 bash' (211)
+- ОШИБКА: Error copying file: server says after data transfer: 500: RETR: Connection timed out
+2018-07-21 00:23:41: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.20 10.13 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.20 10.13 bash' (1 515)
+- ОШИБКА: Error copying file: cannot start transfer: 200: PORT command successful
+2018-07-21 00:23:41: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.20 10.46 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.20 10.46 bash' (248)
+- ОШИБКА: Error copying file: PASV says: 150: Connecting to port 37440
+2018-07-21 00:23:41: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.20 11.13 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.20 11.13 bash' (169)
+- ОШИБКА: Error copying file: PASV says: 226: File successfully transferred
+0.000 seconds (measured here), 16.07 Mbytes per second
+2018-07-21 00:23:45: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.20 11.45 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.20 11.45 bash' (793)
+2018-07-21 00:23:49: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.20 11.46 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.20 11.46 bash' (622)
+- ОШИБКА: Error copying file: server says after data transfer: 500: RETR: Connection timed out
+2018-07-21 00:23:49: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.20 12.11 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.20 12.11 bash' (185)
+- ОШИБКА: Error copying file: cannot start transfer: 200: PORT command successful
+2018-07-21 00:23:49: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.20 12.12 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.20 12.12 bash' (635)
+- ОШИБКА: Error copying file: PASV says: 150: Connecting to port 30567
+2018-07-21 00:23:49: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.20 12.13 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.20 12.13 bash' (148)
+- ОШИБКА: Error copying file: PASV says: 226: File successfully transferred
+0.000 seconds (measured here), 2.80 Mbytes per second
+2018-07-21 00:23:53: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.20 12.45 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.20 12.45 bash' (347)
+2018-07-21 00:23:53: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.20 12.45(2) bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.20 12.45(2) bash' (916)
+2018-07-21 00:23:54: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.20 13.13 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.20 13.13 bash' (528)
+2018-07-21 00:23:54: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.20 13.46 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.20 13.46 bash' (535)
+2018-07-21 00:23:55: Скопирован новый 'ftp://files.000webhost.com/public_html/index.php' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/index.php' (427)
+2018-07-21 00:23:58: ===== Синхронизация завершена. Время 00:01:48, Скорость: 12,2 КБ/s файлов/сек =====, Синхронизировано: 162, Ошибок: 16
+2018-07-21 00:23:58: 
+2018-07-21 00:24:16: == Sync Started by User Command
+2018-07-21 00:24:20: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.19 11.45 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.19 11.45 bash' (1 487)
+2018-07-21 00:24:21: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.19 11.45(2) bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.19 11.45(2) bash' (1 173)
+2018-07-21 00:24:21: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.19 12.12 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.19 12.12 bash' (238)
+2018-07-21 00:24:22: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.19 12.13 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.19 12.13 bash' (408)
+2018-07-21 00:24:23: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.19 12.13(2) bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.19 12.13(2) bash' (408)
+2018-07-21 00:24:23: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.20 08.13 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.20 08.13 bash' (398)
+2018-07-21 00:24:24: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.20 08.46 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.20 08.46 bash' (446)
+2018-07-21 00:24:24: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.20 09.12 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.20 09.12 bash' (197)
+2018-07-21 00:24:25: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.20 10.12 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.20 10.12 bash' (211)
+2018-07-21 00:24:25: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.20 10.13 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.20 10.13 bash' (1 515)
+2018-07-21 00:24:26: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.20 10.46 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.20 10.46 bash' (248)
+2018-07-21 00:24:27: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.20 11.13 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.20 11.13 bash' (169)
+2018-07-21 00:24:27: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.20 11.46 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.20 11.46 bash' (622)
+2018-07-21 00:24:28: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.20 12.11 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.20 12.11 bash' (185)
+2018-07-21 00:24:28: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.20 12.12 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.20 12.12 bash' (635)
+2018-07-21 00:24:29: Скопирован новый 'ftp://files.000webhost.com/public_html/files/2018.07.20 12.13 bash' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/files/2018.07.20 12.13 bash' (148)
+2018-07-21 00:24:32: ===== Синхронизация завершена. Время 00:00:18, Скорость: 8,00 КБ/s файлов/сек =====, Синхронизировано: 16, Ошибок: 0
+2018-07-21 00:24:32: 

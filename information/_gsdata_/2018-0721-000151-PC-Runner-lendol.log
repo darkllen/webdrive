@@ -1,0 +1,158 @@
+2018-07-21 00:01:52: Connected to D:\IDEA\lendol\src\main\resources\information: D: NTFS: type=NTFS vol=disk flags=3E700FF
+2018-07-21 00:01:53: FTP: Use MLST/MLSD command to list files
+2018-07-21 00:01:54: Connected to ftp://files.000webhost.com/public_html: ProFTPD Server (000webhost.com) [::ffff:145.14.145.4]: Syst='UNIX Type: L8' Feat='Features:: AUTH TLS: CCC: CLNT: EPRT: EPSV: HOST: MDTM: MFF modify;UNIX.group;UNIX.mode;: MFMT: MLST modify*;perm*;size*;type*;unique*;UNIX.group*;UNIX.groupname*;UNIX.mode*;UNIX.owner*;UNIX.ownername*;: PBSZ: PROT: RANG STREAM: REST STREAM: SIZE: SSCN: TVFS:End'
+2018-07-21 00:01:54: Incremental Analyze for On File Change
+2018-07-21 00:01:55: -- Analysis Started by On File Change, After Delay, Under Runner
+2018-07-21 00:01:55: ----- Задание 'lendol': АНАЛИЗ запустил On File Change, After Delay, Under Runner на компьютере 'PC' (GoodSync вер. 10.9.2.2) -----
+2018-07-21 00:01:55: D:\IDEA\lendol\src\main\resources\information (D:/IDEA/lendol/src/main/resources/information) [TmpDest] <-> ftp://files.000webhost.com/public_html [TmpDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, OnFileChange Delay=5, Unattended, ChangeLimit=50, LinksIgnore
+2018-07-21 00:01:55: Искл. Скрытые, Искл. Системные, Исключено name *._gstmp|/System Volume Information|Thumbs.db|.DS_Store 
+2018-07-21 00:01:55: Locking folder D:/IDEA/lendol/src/main/resources/information for write
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/Новая папка
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/Новая папка
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files
+2018-07-21 00:01:55: Scan Newly Added Folder: D:/IDEA/lendol/src/main/resources/information/files
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.19 09.12 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 09.12 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.19 09.11 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 09.11 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.19 08.45 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 08.45 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.19 08.44(2) bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 08.44(2) bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.19 08.44 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 08.44 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.19 08.13 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 08.13 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 13.46 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 13.46 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 13.13 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 13.13 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 12.45(2) bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 12.45(2) bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 12.45 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 12.45 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 12.13 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 12.13 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 12.12 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 12.12 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 12.11 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 12.11 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 11.46 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 11.46 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 11.45 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 11.45 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 11.13 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 11.13 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 10.46 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 10.46 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 10.13 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 10.13 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 10.12 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 10.12 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 09.45 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 09.45 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 09.44(2) bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 09.44(2) bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 09.44 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 09.44 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 09.13 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 09.13 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 09.12 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 09.12 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 08.46 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 08.46 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.20 08.13 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.20 08.13 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.19 12.13(2) bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 12.13(2) bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.19 12.13 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 12.13 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.19 12.12 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 12.12 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.19 11.45(2) bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 11.45(2) bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.19 11.45 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 11.45 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.19 11.44 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 11.44 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.19 11.13 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 11.13 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.19 11.12 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 11.12 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.19 11.11 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 11.11 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.19 10.46 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 10.46 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.19 10.12(2) bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 10.12(2) bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.19 10.12 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 10.12 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.19 09.46 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 09.46 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.19 09.45 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 09.45 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/2018.07.19 09.13 bash
+2018-07-21 00:01:55: Change Analyzed: D:/IDEA/lendol/src/main/resources/information/files/2018.07.19 09.13 bash
+2018-07-21 00:01:55: Locking folder ftp://files.000webhost.com/public_html for write
+2018-07-21 00:01:56: Требуемый размер для синхронизации на диске file:///D: : 0 байт, у Вас имеется 508 ГБ
+2018-07-21 00:01:56: On disk ftp://files.000webhost.com space required for sync is 0 байт, free space is unknown
+2018-07-21 00:01:56: Изменений: 83, Конфликтов: 0, Копий Времени: 0, Копий Состояния: 0, Ошибок: 0, All: 89
+2018-07-21 00:01:56: Left to Right: Copy File: 1 Rename/Move File/Folder: 82 
+2018-07-21 00:01:56: ----- Анализ завершён. Время 00:00:05, Скорость: 17 файлов/сек -----
+2018-07-21 00:01:56: Fraction of files changed (excluding renames) is low enough to perform Auto Sync: 1% (1 / 86) < 50%
+2018-07-21 00:01:56: == Sync Started by On File Change, After Delay, Under Runner
+2018-07-21 00:01:56: ===== Задание 'lendol': СИНХРОНИЗАЦИЮ запустил On File Change, After Delay, Under Runner на компьютере 'PC' =====
+2018-07-21 00:01:56: D:\IDEA\lendol\src\main\resources\information (D:/IDEA/lendol/src/main/resources/information) [TmpDest] <-> ftp://files.000webhost.com/public_html [TmpDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, OnFileChange Delay=5, Unattended, ChangeLimit=50, LinksIgnore
+2018-07-21 00:01:56: Создана Папка 'ftp://files.000webhost.com/public_html/files'
+2018-07-21 00:01:57: Перемещение ftp://files.000webhost.com/public_html/2018.07.19 08.13 bash -> ftp://files.000webhost.com/public_html/files/2018.07.19 08.13 bash
+2018-07-21 00:01:57: Перемещение ftp://files.000webhost.com/public_html/2018.07.19 08.44 bash -> ftp://files.000webhost.com/public_html/files/2018.07.19 08.44 bash
+2018-07-21 00:01:57: Перемещение ftp://files.000webhost.com/public_html/2018.07.19 08.44(2) bash -> ftp://files.000webhost.com/public_html/files/2018.07.19 08.44(2) bash
+2018-07-21 00:01:58: Перемещение ftp://files.000webhost.com/public_html/2018.07.19 08.45 bash -> ftp://files.000webhost.com/public_html/files/2018.07.19 08.45 bash
+2018-07-21 00:01:58: Перемещение ftp://files.000webhost.com/public_html/2018.07.19 09.11 bash -> ftp://files.000webhost.com/public_html/files/2018.07.19 09.11 bash
+2018-07-21 00:01:59: Перемещение ftp://files.000webhost.com/public_html/2018.07.19 09.12 bash -> ftp://files.000webhost.com/public_html/files/2018.07.19 09.12 bash
+2018-07-21 00:01:59: Перемещение ftp://files.000webhost.com/public_html/2018.07.19 09.13 bash -> ftp://files.000webhost.com/public_html/files/2018.07.19 09.13 bash
+2018-07-21 00:02:00: Перемещение ftp://files.000webhost.com/public_html/2018.07.19 09.45 bash -> ftp://files.000webhost.com/public_html/files/2018.07.19 09.45 bash
+2018-07-21 00:02:00: Перемещение ftp://files.000webhost.com/public_html/2018.07.19 09.46 bash -> ftp://files.000webhost.com/public_html/files/2018.07.19 09.46 bash
+2018-07-21 00:02:00: Перемещение ftp://files.000webhost.com/public_html/2018.07.19 10.12 bash -> ftp://files.000webhost.com/public_html/files/2018.07.19 10.12 bash
+2018-07-21 00:02:01: Перемещение ftp://files.000webhost.com/public_html/2018.07.19 10.12(2) bash -> ftp://files.000webhost.com/public_html/files/2018.07.19 10.12(2) bash
+2018-07-21 00:02:01: Перемещение ftp://files.000webhost.com/public_html/2018.07.19 10.46 bash -> ftp://files.000webhost.com/public_html/files/2018.07.19 10.46 bash
+2018-07-21 00:02:02: Перемещение ftp://files.000webhost.com/public_html/2018.07.19 11.11 bash -> ftp://files.000webhost.com/public_html/files/2018.07.19 11.11 bash
+2018-07-21 00:02:02: Перемещение ftp://files.000webhost.com/public_html/2018.07.19 11.12 bash -> ftp://files.000webhost.com/public_html/files/2018.07.19 11.12 bash
+2018-07-21 00:02:02: Перемещение ftp://files.000webhost.com/public_html/2018.07.19 11.13 bash -> ftp://files.000webhost.com/public_html/files/2018.07.19 11.13 bash
+2018-07-21 00:02:03: Перемещение ftp://files.000webhost.com/public_html/2018.07.19 11.44 bash -> ftp://files.000webhost.com/public_html/files/2018.07.19 11.44 bash
+2018-07-21 00:02:03: Перемещение ftp://files.000webhost.com/public_html/2018.07.19 11.45 bash -> ftp://files.000webhost.com/public_html/files/2018.07.19 11.45 bash
+2018-07-21 00:02:04: Перемещение ftp://files.000webhost.com/public_html/2018.07.19 11.45(2) bash -> ftp://files.000webhost.com/public_html/files/2018.07.19 11.45(2) bash
+2018-07-21 00:02:04: Перемещение ftp://files.000webhost.com/public_html/2018.07.19 12.12 bash -> ftp://files.000webhost.com/public_html/files/2018.07.19 12.12 bash
+2018-07-21 00:02:05: Перемещение ftp://files.000webhost.com/public_html/2018.07.19 12.13 bash -> ftp://files.000webhost.com/public_html/files/2018.07.19 12.13 bash
+2018-07-21 00:02:05: Перемещение ftp://files.000webhost.com/public_html/2018.07.19 12.13(2) bash -> ftp://files.000webhost.com/public_html/files/2018.07.19 12.13(2) bash
+2018-07-21 00:02:05: Перемещение ftp://files.000webhost.com/public_html/2018.07.20 08.13 bash -> ftp://files.000webhost.com/public_html/files/2018.07.20 08.13 bash
+2018-07-21 00:02:06: Перемещение ftp://files.000webhost.com/public_html/2018.07.20 08.46 bash -> ftp://files.000webhost.com/public_html/files/2018.07.20 08.46 bash
+2018-07-21 00:02:06: Перемещение ftp://files.000webhost.com/public_html/2018.07.20 09.12 bash -> ftp://files.000webhost.com/public_html/files/2018.07.20 09.12 bash
+2018-07-21 00:02:07: Перемещение ftp://files.000webhost.com/public_html/2018.07.20 09.13 bash -> ftp://files.000webhost.com/public_html/files/2018.07.20 09.13 bash
+2018-07-21 00:02:07: Перемещение ftp://files.000webhost.com/public_html/2018.07.20 09.44 bash -> ftp://files.000webhost.com/public_html/files/2018.07.20 09.44 bash
+2018-07-21 00:02:07: Перемещение ftp://files.000webhost.com/public_html/2018.07.20 09.44(2) bash -> ftp://files.000webhost.com/public_html/files/2018.07.20 09.44(2) bash
+2018-07-21 00:02:08: Перемещение ftp://files.000webhost.com/public_html/2018.07.20 09.45 bash -> ftp://files.000webhost.com/public_html/files/2018.07.20 09.45 bash
+2018-07-21 00:02:08: Перемещение ftp://files.000webhost.com/public_html/2018.07.20 10.12 bash -> ftp://files.000webhost.com/public_html/files/2018.07.20 10.12 bash
+2018-07-21 00:02:09: Перемещение ftp://files.000webhost.com/public_html/2018.07.20 10.13 bash -> ftp://files.000webhost.com/public_html/files/2018.07.20 10.13 bash
+2018-07-21 00:02:09: Перемещение ftp://files.000webhost.com/public_html/2018.07.20 10.46 bash -> ftp://files.000webhost.com/public_html/files/2018.07.20 10.46 bash
+2018-07-21 00:02:09: Перемещение ftp://files.000webhost.com/public_html/2018.07.20 11.13 bash -> ftp://files.000webhost.com/public_html/files/2018.07.20 11.13 bash
+2018-07-21 00:02:10: Перемещение ftp://files.000webhost.com/public_html/2018.07.20 11.45 bash -> ftp://files.000webhost.com/public_html/files/2018.07.20 11.45 bash
+2018-07-21 00:02:10: Перемещение ftp://files.000webhost.com/public_html/2018.07.20 11.46 bash -> ftp://files.000webhost.com/public_html/files/2018.07.20 11.46 bash
+2018-07-21 00:02:11: Перемещение ftp://files.000webhost.com/public_html/2018.07.20 12.11 bash -> ftp://files.000webhost.com/public_html/files/2018.07.20 12.11 bash
+2018-07-21 00:02:11: Перемещение ftp://files.000webhost.com/public_html/2018.07.20 12.12 bash -> ftp://files.000webhost.com/public_html/files/2018.07.20 12.12 bash
+2018-07-21 00:02:12: Перемещение ftp://files.000webhost.com/public_html/2018.07.20 12.13 bash -> ftp://files.000webhost.com/public_html/files/2018.07.20 12.13 bash
+2018-07-21 00:02:12: Перемещение ftp://files.000webhost.com/public_html/2018.07.20 12.45 bash -> ftp://files.000webhost.com/public_html/files/2018.07.20 12.45 bash
+2018-07-21 00:02:12: Перемещение ftp://files.000webhost.com/public_html/2018.07.20 12.45(2) bash -> ftp://files.000webhost.com/public_html/files/2018.07.20 12.45(2) bash
+2018-07-21 00:02:13: Перемещение ftp://files.000webhost.com/public_html/2018.07.20 13.13 bash -> ftp://files.000webhost.com/public_html/files/2018.07.20 13.13 bash
+2018-07-21 00:02:13: Перемещение ftp://files.000webhost.com/public_html/2018.07.20 13.46 bash -> ftp://files.000webhost.com/public_html/files/2018.07.20 13.46 bash
+2018-07-21 00:02:13: Сохраняю файл состояний D:/IDEA/lendol/src/main/resources/information/_gsdata_/_file_state_v4._gs
+2018-07-21 00:02:14: Сохраняю файл состояний ftp://files.000webhost.com/public_html/_gsdata_/_file_state_v4._gs
+2018-07-21 00:02:15: Cleanup recycled files in D:/IDEA/lendol/src/main/resources/information/_gsdata_/_saved_
+2018-07-21 00:02:15: Cleanup old logs in D:/IDEA/lendol/src/main/resources/information/_gsdata_
+2018-07-21 00:02:15: Cleanup recycled files in ftp://files.000webhost.com/public_html/_gsdata_/_saved_
+2018-07-21 00:02:15: Load Recycled DB: ftp://files.000webhost.com/public_html/_gsdata_/_recycled_db._gs
+2018-07-21 00:02:15: Cleanup old logs in ftp://files.000webhost.com/public_html/_gsdata_
+2018-07-21 00:02:15: ===== Синхронизация завершена. Время 00:00:19, Скорость: 38,5 КБ/s файлов/сек =====, Синхронизировано: 83, Ошибок: 0
+2018-07-21 00:02:15: Unlocking folder D:/IDEA/lendol/src/main/resources/information/_gsdata_/lock.gsl
+2018-07-21 00:02:15: Unlocking folder ftp://files.000webhost.com/public_html/_gsdata_/lock.gsl
+2018-07-21 00:02:16: 

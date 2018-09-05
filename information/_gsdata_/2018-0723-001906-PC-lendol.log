@@ -1,0 +1,34 @@
+2018-07-23 00:19:09: -- Analysis Started by User Command
+2018-07-23 00:19:16: Cannot read folder ftp://files.000webhost.com/tmp: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-23 00:19:16: Во время Анализа возникли ошибки. Нажмите кнопку Ошибки для их просмотра.
+2018-07-23 00:19:16: Изменений: 13, Конфликтов: 0, Копий Времени: 0, Копий Состояния: 0, Ошибок: 1, All: 192
+2018-07-23 00:19:16: Left to Right: Copy File: 12 
+2018-07-23 00:19:16: ----- Анализ завершён. Время 00:00:10, Скорость: 6 файлов/сек -----
+2018-07-23 00:19:16: 
+2018-07-23 00:19:27: Done.
+2018-07-23 00:19:29: Done.
+2018-07-23 00:19:29: Done.
+2018-07-23 00:19:29: Item Details: /tmp
+Lnew: [folder] accu-time=2018-07-23 00:17:13 attr= cktype=0
+Lold: [folder] accu-time=2018-07-20 17:36:57 attr= cktype=0
+Rnew: [deleted] accu-time=(отсутствует) attr= cktype=0
+Rold: [folder] accu-time=2018-07-20 17:36:57 attr= cktype=0
+Lgen: c=1 @180721-002158 
+Rgen: c=1 @180721-002158 NewGen 
+2018-07-23 00:19:29: 
+2018-07-23 00:19:37: == Sync Started by User Command
+2018-07-23 00:19:42: Скопирован новый 'D:/IDEA/webdrive/information/public_html/files/2018.07.20 13.46(2) bash' -> 'ftp://files.000webhost.com/public_html/files/2018.07.20 13.46(2) bash' (535)
+2018-07-23 00:19:44: Скопирован новый 'D:/IDEA/webdrive/information/public_html/files/2018.07.21 08.13 bash' -> 'ftp://files.000webhost.com/public_html/files/2018.07.21 08.13 bash' (856)
+2018-07-23 00:19:45: Скопирован новый 'D:/IDEA/webdrive/information/public_html/files/2018.07.21 08.46 bash' -> 'ftp://files.000webhost.com/public_html/files/2018.07.21 08.46 bash' (439)
+2018-07-23 00:19:46: Скопирован новый 'D:/IDEA/webdrive/information/public_html/files/2018.07.21 09.11 bash' -> 'ftp://files.000webhost.com/public_html/files/2018.07.21 09.11 bash' (1 117)
+2018-07-23 00:19:47: Скопирован новый 'D:/IDEA/webdrive/information/public_html/files/2018.07.21 09.11(2) bash' -> 'ftp://files.000webhost.com/public_html/files/2018.07.21 09.11(2) bash' (463)
+2018-07-23 00:19:49: Скопирован новый 'D:/IDEA/webdrive/information/public_html/files/2018.07.21 09.12 bash' -> 'ftp://files.000webhost.com/public_html/files/2018.07.21 09.12 bash' (166)
+2018-07-23 00:19:50: Скопирован новый 'D:/IDEA/webdrive/information/public_html/files/2018.07.22 08.11 bash' -> 'ftp://files.000webhost.com/public_html/files/2018.07.22 08.11 bash' (187)
+2018-07-23 00:19:51: Скопирован новый 'D:/IDEA/webdrive/information/public_html/files/2018.07.22 08.11(2) bash' -> 'ftp://files.000webhost.com/public_html/files/2018.07.22 08.11(2) bash' (1 478)
+2018-07-23 00:19:53: Скопирован новый 'D:/IDEA/webdrive/information/public_html/files/2018.07.22 08.12 bash' -> 'ftp://files.000webhost.com/public_html/files/2018.07.22 08.12 bash' (320)
+2018-07-23 00:19:54: Скопирован новый 'D:/IDEA/webdrive/information/public_html/files/2018.07.22 08.45 bash' -> 'ftp://files.000webhost.com/public_html/files/2018.07.22 08.45 bash' (537)
+2018-07-23 00:19:55: Скопирован новый 'D:/IDEA/webdrive/information/public_html/files/2018.07.22 08.46 bash' -> 'ftp://files.000webhost.com/public_html/files/2018.07.22 08.46 bash' (239)
+2018-07-23 00:19:56: Скопирован новый 'D:/IDEA/webdrive/information/public_html/files/2018.07.22 08.46(2) bash' -> 'ftp://files.000webhost.com/public_html/files/2018.07.22 08.46(2) bash' (239)
+2018-07-23 00:19:56: /tmp: Analyze error: server says after data transfer: 500: MLSD: Connection timed out; server says after data transfer: 500: MLSD: Connection timed out
+2018-07-23 00:20:00: ===== Синхронизация завершена. Время 00:00:24, Скорость: 4,79 КБ/s файлов/сек =====, Синхронизировано: 12, Ошибок: 0
+2018-07-23 00:20:00: 

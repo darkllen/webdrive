@@ -1,0 +1,54 @@
+2018-07-21 02:41:37: FTP: Use MLST/MLSD command to list files
+2018-07-21 02:41:37: File Monitoring not available on: ftp://files.000webhost.com
+2018-07-21 02:41:37: Remote File System with No monitoring, disconnect
+2018-07-21 02:41:37: Connected to D:\IDEA\lendol\src\main\resources\information: D: NTFS: type=NTFS vol=disk flags=3E700FF
+2018-07-21 02:41:37: On File Change Monitoring started on file:///D:/IDEA/lendol/src/main/resources/information
+2018-07-21 02:41:38: FTP: Use MLST/MLSD command to list files
+2018-07-21 02:41:39: Connected to ftp://files.000webhost.com: ProFTPD Server (000webhost.com) [::ffff:145.14.144.13]: Syst='UNIX Type: L8' Feat='Features:: AUTH TLS: CCC: CLNT: EPRT: EPSV: HOST: MDTM: MFF modify;UNIX.group;UNIX.mode;: MFMT: MLST modify*;perm*;size*;type*;unique*;UNIX.group*;UNIX.groupname*;UNIX.mode*;UNIX.owner*;UNIX.ownername*;: PBSZ: PROT: RANG STREAM: REST STREAM: SIZE: SSCN: TVFS:End'
+2018-07-21 02:41:39: First Full Analyze for On File Change
+2018-07-21 02:41:40: -- Analysis Started by On File Change First Full Analyze Upon File Monitoring Start, Under Runner
+2018-07-21 02:41:40: ----- Задание 'lendol': АНАЛИЗ запустил On File Change First Full Analyze Upon File Monitoring Start, Under Runner на компьютере 'PC' (GoodSync вер. 10.9.2.2) -----
+2018-07-21 02:41:40: D:\IDEA\lendol\src\main\resources\information (D:/IDEA/lendol/src/main/resources/information) [TmpDest] <-> ftp://files.000webhost.com [TmpDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, OnFileChange Delay=1, Unattended, ChangeLimit=50, CopyAttrs, LinksCopy
+2018-07-21 02:41:40: Искл. Скрытые, Искл. Системные, Исключено name *._gstmp|/System Volume Information|Thumbs.db|.DS_Store 
+2018-07-21 02:41:40: Locking folder D:/IDEA/lendol/src/main/resources/information for write
+2018-07-21 02:41:40: Слева: Читаю файл состояний D:/IDEA/lendol/src/main/resources/information/_gsdata_/_file_state_v4._gs
+2018-07-21 02:41:40: Слева: D:/IDEA/lendol/src/main/resources/information/_gsdata_/_file_state_v4._gs: created By: lendol.user@PC at: 2018.07.21 00:32:58 ÃÃ¨Ã­Ã«Ã¿Ã­Ã¤Ã¨Ã¿ (Ã«Ã¥Ã²Ã®)
+2018-07-21 02:41:40: Слева: Файлов: 86 (исключено 0). Папок: 4 (исключено 1). Times (s): Folder Scan: 0.031 (2935 f/s), Compare: 0.000 D: NTFS Свободно: 508 ГБ, Всего: 931 ГБ
+2018-07-21 02:41:40: Locking folder ftp://files.000webhost.com for write
+2018-07-21 02:41:41: Справа: Читаю файл состояний ftp://files.000webhost.com/_gsdata_/_file_state_v4._gs
+2018-07-21 02:41:42: Справа: ftp://files.000webhost.com/_gsdata_/_file_state_v4._gs: created By: lendol.user@PC at: 2018.07.21 00:32:58 ÃÃ¨Ã­Ã«Ã¿Ã­Ã¤Ã¨Ã¿ (Ã«Ã¥Ã²Ã®)
+2018-07-21 02:41:43: Locking folder ftp://files.000webhost.com/public_html for write
+2018-07-21 02:41:45: Справа: Объединяю файл состояний ftp://files.000webhost.com/public_html с файлом состояний корневой папки
+2018-07-21 02:41:45: Справа: ftp://files.000webhost.com/public_html/_gsdata_/_file_state_v4._gs: created By: lendol.user@PC at: 2018.07.21 00:32:58 ÃÃ¨Ã­Ã«Ã¿Ã­Ã¤Ã¨Ã¿ (Ã«Ã¥Ã²Ã®)
+2018-07-21 02:41:46: Справа: Файлов: 86 (исключено 0). Папок: 4 (исключено 2). Times (s): Folder Scan: 6.517 (14 f/s), Compare: 0.000 lendol ProFTPD Server (000webhost.com) [::ffff:145.14.144.13] Free: unknown
+2018-07-21 02:41:46: Требуемый размер для синхронизации на диске file:///D: : 1,00 КБ, у Вас имеется 508 ГБ
+2018-07-21 02:41:46: On disk ftp://files.000webhost.com space required for sync is 1,00 КБ, free space is unknown
+2018-07-21 02:41:46: Изменений: 2, Конфликтов: 0, Копий Времени: 0, Копий Состояния: 0, Ошибок: 0, All: 180
+2018-07-21 02:41:46: Left to Right: Copy File: 1 
+2018-07-21 02:41:46: Right to Left: Copy File: 1 
+2018-07-21 02:41:46: ----- Анализ завершён. Время 00:00:11, Скорость: 8 файлов/сек -----
+2018-07-21 02:41:46: Fraction of files changed (excluding renames) is low enough to perform Auto Sync: 2% (2 / 92) < 50%
+2018-07-21 02:41:46: == Sync Started by On File Change First Full Analyze Upon File Monitoring Start, Under Runner
+2018-07-21 02:41:46: ===== Задание 'lendol': СИНХРОНИЗАЦИЮ запустил On File Change First Full Analyze Upon File Monitoring Start, Under Runner на компьютере 'PC' =====
+2018-07-21 02:41:46: D:\IDEA\lendol\src\main\resources\information (D:/IDEA/lendol/src/main/resources/information) [TmpDest] <-> ftp://files.000webhost.com [TmpDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, OnFileChange Delay=1, Unattended, ChangeLimit=50, CopyAttrs, LinksCopy
+2018-07-21 02:41:48: Load Recycled DB: ftp://files.000webhost.com/_gsdata_/_recycled_db._gs
+2018-07-21 02:41:49: Скопировано поверх 'D:/IDEA/lendol/src/main/resources/information/index.php' -> 'ftp://files.000webhost.com/index.php' (690)
+2018-07-21 02:41:49: Load Recycled DB: D:/IDEA/lendol/src/main/resources/information/_gsdata_/_recycled_db._gs
+2018-07-21 02:41:49: Скопировано поверх 'ftp://files.000webhost.com/public_html/index.php' -> 'D:/IDEA/lendol/src/main/resources/information/public_html/index.php' (690)
+2018-07-21 02:41:49: Change detected [0]: t=Deleted path=/public_html/index.php
+2018-07-21 02:41:49: Change detected [0]: t=Created path=/public_html/index.php
+2018-07-21 02:41:49: Change detected [0]: t=Modified path=/public_html/index.php
+2018-07-21 02:41:50: Сохраняю файл состояний ftp://files.000webhost.com/public_html/_gsdata_/_file_state_v4._gs
+2018-07-21 02:41:50: Сохраняю файл состояний D:/IDEA/lendol/src/main/resources/information/_gsdata_/_file_state_v4._gs
+2018-07-21 02:41:51: Сохраняю файл состояний ftp://files.000webhost.com/_gsdata_/_file_state_v4._gs
+2018-07-21 02:41:51: Cleanup recycled files in D:/IDEA/lendol/src/main/resources/information/_gsdata_/_saved_
+2018-07-21 02:41:51: Save Recycled DB: D:/IDEA/lendol/src/main/resources/information/_gsdata_/_recycled_db._gs
+2018-07-21 02:41:51: Cleanup old logs in D:/IDEA/lendol/src/main/resources/information/_gsdata_
+2018-07-21 02:41:51: Cleanup recycled files in ftp://files.000webhost.com/_gsdata_/_saved_
+2018-07-21 02:41:52: Save Recycled DB: ftp://files.000webhost.com/_gsdata_/_recycled_db._gs
+2018-07-21 02:41:52: Cleanup old logs in ftp://files.000webhost.com/_gsdata_
+2018-07-21 02:41:52: ===== Синхронизация завершена. Время 00:00:06, Скорость: 2,66 КБ/s файлов/сек =====, Синхронизировано: 2, Ошибок: 0
+2018-07-21 02:41:52: Unlocking folder D:/IDEA/lendol/src/main/resources/information/_gsdata_/lock.gsl
+2018-07-21 02:41:52: Unlocking folder ftp://files.000webhost.com/_gsdata_/lock.gsl
+2018-07-21 02:41:53: Unlocking folder ftp://files.000webhost.com/public_html/_gsdata_/lock.gsl
+2018-07-21 02:41:53: 

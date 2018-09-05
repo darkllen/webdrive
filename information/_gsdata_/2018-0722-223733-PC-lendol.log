@@ -1,0 +1,108 @@
+2018-07-22 22:37:35: -- Analysis Started by User Command
+2018-07-22 22:37:42: Cannot read folder ftp://files.000webhost.com/public_html/files: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:37:42: FTP: MLSD is broken, so turn it off: PASV says: 250: OK. Current directory is /tmp
+2018-07-22 22:37:42: Cannot read folder ftp://files.000webhost.com/tmp: listing folder with LIST: cannot start transfer: 227: Entering Passive Mode (145,14,145,99,199,27).
+2018-07-22 22:37:42: Во время Анализа возникли ошибки. Нажмите кнопку Ошибки для их просмотра.
+2018-07-22 22:37:42: Изменений: 44, Конфликтов: 0, Копий Времени: 0, Копий Состояния: 0, Ошибок: 43, All: 180
+2018-07-22 22:37:42: Left to Right: Copy File: 1 
+2018-07-22 22:37:42: ----- Анализ завершён. Время 00:00:09, Скорость: 5 файлов/сек -----
+2018-07-22 22:37:42: 
+2018-07-22 22:38:13: == Sync Started by User Command
+2018-07-22 22:38:16: /public_html/files/2018.07.19 08.13 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.19 08.44 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.19 08.44(2) bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.19 08.45 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.19 09.11 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.19 09.12 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.19 09.13 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.19 09.45 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.19 09.46 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.19 10.12 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.19 10.12(2) bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.19 10.46 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.19 11.11 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.19 11.12 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.19 11.13 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.19 11.44 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.19 11.45 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.19 11.45(2) bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.19 12.12 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.19 12.13 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.19 12.13(2) bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.20 08.13 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.20 08.46 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.20 09.12 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.20 09.13 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.20 09.44 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.20 09.44(2) bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.20 09.45 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.20 10.12 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.20 10.13 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.20 10.46 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.20 11.13 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.20 11.45 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.20 11.46 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.20 12.11 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.20 12.12 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.20 12.13 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.20 12.45 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.20 12.45(2) bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.20 13.13 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files/2018.07.20 13.46 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:16: /public_html/files: Analyze error: server says after data transfer: 500: MLSD: Connection timed out; server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:18: Скопировано поверх 'D:/IDEA/lendol/src/main/resources/information/public_html/index.php' -> 'ftp://files.000webhost.com/public_html/index.php' (1 331)
+2018-07-22 22:38:18: /tmp: Analyze error: listing folder with LIST: cannot start transfer: 227: Entering Passive Mode (145,14,145,99,199,27).; listing folder with LIST: cannot start transfer: 227: Entering Passive Mode (145,14,145,99,199,27).
+2018-07-22 22:38:21: ===== Синхронизация завершена. Время 00:00:09, Скорость: 57,3 КБ/s файлов/сек =====, Синхронизировано: 1, Ошибок: 0
+2018-07-22 22:38:22: 
+2018-07-22 22:38:27: == Sync Started by User Command
+2018-07-22 22:38:30: /public_html/files/2018.07.19 08.13 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.19 08.44 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.19 08.44(2) bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.19 08.45 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.19 09.11 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.19 09.12 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.19 09.13 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.19 09.45 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.19 09.46 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.19 10.12 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.19 10.12(2) bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.19 10.46 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.19 11.11 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.19 11.12 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.19 11.13 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.19 11.44 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.19 11.45 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.19 11.45(2) bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.19 12.12 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.19 12.13 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.19 12.13(2) bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.20 08.13 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.20 08.46 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.20 09.12 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.20 09.13 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.20 09.44 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.20 09.44(2) bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.20 09.45 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.20 10.12 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.20 10.13 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.20 10.46 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.20 11.13 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.20 11.45 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.20 11.46 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.20 12.11 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.20 12.12 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.20 12.13 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.20 12.45 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.20 12.45(2) bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.20 13.13 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files/2018.07.20 13.46 bash: Analyze error: server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /public_html/files: Analyze error: server says after data transfer: 500: MLSD: Connection timed out; server says after data transfer: 500: MLSD: Connection timed out
+2018-07-22 22:38:30: /tmp: Analyze error: listing folder with LIST: cannot start transfer: 227: Entering Passive Mode (145,14,145,99,199,27).; listing folder with LIST: cannot start transfer: 227: Entering Passive Mode (145,14,145,99,199,27).
+2018-07-22 22:38:36: ===== Синхронизация завершена. Время 00:00:11, Скорость: 67,1 КБ/s файлов/сек =====, Синхронизировано: 0, Ошибок: 0
+2018-07-22 22:38:36: Cannot rename lock file to stamp file: cannot RNFR: Options: -a -l 
+65 matches total
+2018-07-22 22:38:36: Cannot delete Lock file: Server says: RNFR accepted - file exists, ready for destination
+2018-07-22 22:38:36: Cannot rename lock file to stamp file: cannot RNFR: Deleted /_gsdata_/lock.gsl
+2018-07-22 22:38:36: Cannot delete Lock file: Server says: Aborting previous rename operation
+RNFR accepted - file exists, ready for destination
+2018-07-22 22:38:36: 
