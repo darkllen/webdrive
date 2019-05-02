@@ -1,4 +1,4 @@
-import org.openqa.selenium.WebDriver;
+
 
 import java.sql.SQLException;
 
@@ -8,7 +8,7 @@ import java.sql.SQLException;
 public class Main_Test {
     public static void main(String[] args) throws InterruptedException, SQLException {
         Methods methods = new Methods();
-        WebDriver driver = methods.getDriver();
+
 
 
     }

@@ -16,23 +16,32 @@ public class Database {
         this.statement = statement;
     }
 
-    public String getLastDate (int id) throws SQLException {
-        String query = "SELECT `date` from date WHERE id = " + id;
+    public String getLastTime (int id) throws SQLException {
+        String query = "SELECT `value` from time WHERE id = " + id;
         ResultSet rs = statement.executeQuery(query);
         while (rs.next()) {
-            return rs.getString("date");
+            return rs.getString("value");
         }
         return null;
     }
 
-    public void updateLastDate(String lastDate, int id) throws SQLException {
-        String query = "update date Set `date` = \"" +lastDate+ "\" where id =" + id;
+    public void updateLastDate(String lastTime, int id) throws SQLException {
+        String query = "update time Set `value` = \"" +lastTime+ "\" where id =" + id;
         statement.executeUpdate(query);
     }
 
-    public void insertNew (String source, String href, String name, String date) throws SQLException {
-        String query = "INSERT INTO `inf` (`source`, `href`, `name`, `date`) VALUES ('" +source +"', '" +href+"', '"+name+"', '" + date + "')";
+    public void insertNew (String source, String href, String name, String time) throws SQLException {
+        String query = "INSERT INTO `information` (`source`, `href`, `name`, `time`) VALUES ('" +source +"', '" +href+"', '"+name+"', '" + time + "')";
         statement.execute(query);
+    }
+
+    public void updatePopularity(int popularity, String href) throws SQLException {
+        String query = "update `information` Set `popularity` = \"" +popularity+ "\" where  href='" + href +"'";
+        statement.executeUpdate(query);
+    }
+
+    public void getHrefs(){
+
     }
 
 

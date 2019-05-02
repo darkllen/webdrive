@@ -2,9 +2,6 @@
 import dao.Connect;
 import dao.Database;
 import jdk.internal.util.xml.impl.Input;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 
 import java.io.File;
 import java.io.FileWriter;
@@ -21,22 +18,13 @@ public class Main {
     public static void main(String[] args) throws InterruptedException, SQLException, ParseException, IOException {
 
 
-        Methods methods = new Methods();
+      Methods.getToHabr();
 
-        WebDriver driver = methods.getDriver();
-
-
-
-        while (true){
-            methods.getToHabr(driver);
-            methods.getToBash(driver);
-        }
 
 
 
 
     }
-
 
 
 }

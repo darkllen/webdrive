@@ -10,9 +10,9 @@ import java.sql.Statement;
  * Created by user on 01.11.2017.
  */
 public class Connect  {
-    private static final String url = "jdbc:mysql://db4free.net:3306/lendro";
+    private static final String url = "jdbc:mysql://193.111.0.203:3306/lendro";
     private static final String user = "darklen";
-    private static final String password = "0987654321";
+    private static final String password = "qwerty";
     public Connection connection;
 
     public Statement connect() {

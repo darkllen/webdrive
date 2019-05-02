@@ -31,43 +31,24 @@
  </head>
  <body  style="margin: 0">
  		
-		<?php  
-
-
-
-		$link = mysqli_connect("db4free.net:3306", "darklen", "0987654321", "lendro");
-
-
-				
-
-		$query ="SELECT * FROM inf ORDER BY date DESC";
-
+		<?php
+		$link = mysqli_connect("193.111.0.203:3306", "darklen", "qwerty", "lendro");
+		$query ="SELECT * FROM information ORDER BY time DESC";
 		$result = mysqli_query($link, $query) or die("Ошибка " . mysqli_error($link)); 
 		$rows_num = mysqli_num_rows($result);
 
- 	for ($i = 0; $i < $rows_num; $i++) {
+ 	    for ($i = 0; $i < $rows_num; $i++) {
  			$row = mysqli_fetch_row($result);
-
-	
-
- 		if ($row[1] == "bash") {
- 			echo "<button  class=\"btn_bash\" onclick = \"showDiv(event)\" id = \"$row[2]\" >bash</button
- 			>";
- 		} else{
- 			
- 			echo "<button  class=\"btn_habr\" onclick = \"showDiv(event)\" id = \"$row[2]\" >$row[3]</button
- 			>";
- 		}
- 		
-
- 
-
- 			
-	}
- ?>
+ 		    if ($row[1] == "bash") {
+ 			    echo "<button  class=\"btn_bash\" onclick = \"showDiv(event)\" id = \"$row[2]\" >bash</button
+ 			    >";
+ 		    } else{
+ 			    echo "<button  class=\"btn_habr\" onclick = \"showDiv(event)\" id = \"$row[2]\" >$row[3]</button
+ 			    >";
+ 		    }
+	    }
+        ?>
 	</div>
-
-  
 
  </body>
  </html>
