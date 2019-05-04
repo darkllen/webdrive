@@ -40,11 +40,13 @@ public class Database {
         statement.executeUpdate(query);
     }
 
-    public void getHrefs(){
-
+    public ArrayList<String> getHrefs() throws SQLException {
+        ArrayList<String> hrefs = new ArrayList<String>();
+        String query = "SELECT `href` from information";
+        ResultSet rs = statement.executeQuery(query);
+        while (rs.next()) {
+            hrefs.add( rs.getString("href"));
+        }
+        return hrefs;
     }
-
-
-
-
-}
+    }

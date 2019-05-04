@@ -28,8 +28,6 @@ public class Methods {
         Connect connect = new Connect();
         Database database = new Database(connect.connect());
 
-        database.updatePopularity(50, "https://habr.com/ru/post/450182/");
-
        Document doc = Jsoup.connect("https://habr.com/ru/all/").get();
        Elements names = doc.getElementsByClass("post__title_link");
        Elements time = doc.getElementsByClass("post__time");
@@ -70,7 +68,24 @@ public class Methods {
        }
     }
 
-    public void updatePopularity(){
+    public static void updatePopularity() throws SQLException {
+        Connect connect = new Connect();
+        Database database = new Database(connect.connect());
+
+        ArrayList<String> hrefs = database.getHrefs();
+
+        hrefs.forEach(x->{
+            try {
+                Document document = Jsoup.connect(x).get();
+                Elements element = document.getElementsByClass("voting-wjt__counter voting-wjt__counter_positive  js-score");
+                int vote = Integer.parseInt(element.get(0).text());
+                database.updatePopularity(vote,x);
+            } catch (IOException e) {
+                e.printStackTrace();
+            } catch (SQLException e) {
+                e.printStackTrace();
+            }
+        });
 
     }
 

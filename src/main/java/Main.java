@@ -1,7 +1,7 @@
 
 import dao.Connect;
 import dao.Database;
-import jdk.internal.util.xml.impl.Input;
+//import jdk.internal.util.xml.impl.Input;
 
 import java.io.File;
 import java.io.FileWriter;
@@ -17,7 +17,7 @@ import java.util.*;
 public class Main {
     public static void main(String[] args) throws InterruptedException, SQLException, ParseException, IOException {
 
-
+        Methods.updatePopularity();
       Methods.getToHabr();
 
 
