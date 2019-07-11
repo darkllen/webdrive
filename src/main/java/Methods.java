@@ -78,8 +78,12 @@ public class Methods {
             try {
                 Document document = Jsoup.connect(x).get();
                 Elements element = document.getElementsByClass("voting-wjt__counter voting-wjt__counter_positive  js-score");
-                int vote = Integer.parseInt(element.get(0).text());
+                element.addAll(document.getElementsByClass("voting-wjt__counter  voting-wjt__counter_negative js-score"));
+                element.addAll(document.getElementsByClass("voting-wjt__counter   js-score"));
+                String score = element.get(0).text().replaceAll("–", "-");
+                int vote = Integer.parseInt(score);
                 database.updatePopularity(vote,x);
+                System.out.println(vote);
             } catch (IOException e) {
                 e.printStackTrace();
             } catch (SQLException e) {

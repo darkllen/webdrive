@@ -18,7 +18,7 @@ public class Main {
     public static void main(String[] args) throws InterruptedException, SQLException, ParseException, IOException {
 
         Methods.updatePopularity();
-      Methods.getToHabr();
+        Methods.getToHabr();
 
 
 
