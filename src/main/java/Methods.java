@@ -95,52 +95,49 @@ public class Methods {
 
 
 
-/*    public void getToBash(WebDriver driver) throws InterruptedException, ParseException, SQLException, IOException {
-        driver.get("https://bash.im/");
+    public static void getToBash() throws InterruptedException, ParseException, SQLException, IOException {
 
         Connect connect = new Connect();
         Database database = new Database(connect.connect());
+        Document doc = Jsoup.connect("https://bash.im/").get();
+
         SimpleDateFormat dateFormat = new SimpleDateFormat("y.MM.dd HH.mm");
-        List<WebElement> text = driver.findElements(By.className("text"));
-        List<WebElement> data = driver.findElements(By.className("actions"));
 
-        List<String[]> textsFormat = new LinkedList<String[]>();
-        for (int i = 0; i < text.size(); i++) {
-            textsFormat.add(text.get(i).getText().split("\n"));
-        }
+        List<String[]> formatData = new LinkedList<String[]>();
+        List<String> dateInText = new LinkedList<String>();
 
-        List<String> dateOfBashForFile = new LinkedList<String>();
-        List<Date> dateOfBash = new LinkedList<Date>();
+        Elements time = doc.getElementsByClass("quote__header_date");
+        Elements hrefs = doc.getElementsByClass("quote__header_permalink");
 
-        List<WebElement> hreh = driver.findElements(By.className("id"));
-
-        for (int i = 0; i < data.size(); i++) {
-            dateOfBashForFile.add(i, (data.get(i).getText().substring(data.get(i).getText().lastIndexOf(']') + 2, data.get(i).getText().indexOf('#') - 1)));
-            dateOfBashForFile.set(i, dateOfBashForFile.get(i).replace('-', '.'));
-            dateOfBashForFile.set(i, dateOfBashForFile.get(i).replace(':', '.'));
-            dateOfBash.add(i, dateFormat.parse(dateOfBashForFile.get(i)));
+        for (int i = 0; i < time.size(); i++) {
+            formatData.add(time.get(i).text().split(" "));
+                Date date = new Date();
+                String dateF = dateFormat.format(date);
+                formatData.get(i)[0] = dateF;
+                formatData.get(i)[2] = formatData.get(i)[2].replace(':', '.');
+                dateInText.add(formatData.get(i)[0] + " " + formatData.get(i)[2]);
         }
 
 
-        int doub = 0;
+        SimpleDateFormat simpleDateFormat = new SimpleDateFormat("y.MM.dd HH.mm");
+        Date currentDate = simpleDateFormat.parse(database.getLastTime(1));
 
-        for (int i = dateOfBashForFile.size() - 1; i >= 0; i--) {
-            Date currentDate = dateFormat.parse(database.getLastDate(1));
-            if (dateOfBash.get(i).compareTo(currentDate) > 0) {
+        List<Date> dateOfHabr = new LinkedList<Date>();
+        for (int i = 0; i < dateInText.size(); i++) {
+            dateOfHabr.add(i, simpleDateFormat.parse(dateInText.get(i)));
+        }
 
-                String name = dateOfBashForFile.get(i) + " bash";
 
-                database.insertNew("bash",hreh.get(i).getAttribute("href"),"bash",dateOfBashForFile.get(i));
-
-                database.updateLastDate(dateOfBashForFile.get(i), 1);
+        for (int i = dateInText.size() - 1; i >= 0; i--) {
+            if (dateOfHabr.get(i).compareTo(currentDate) > 0) {
+                String href = "https://bash.im" +hrefs.get(i).attr("href");
+                String name = "bash";
+                database.insertNew("bash",href,name,dateInText.get(i));
+                database.updatePopularity(300, href);
+                database.updateLastDate(dateInText.get(i), 1);
             }
-      *//*      if (dateOfBash.get(i).compareTo(currentDate) == 0) {
-                String name = dateOfBashForFile.get(i) + "(2)" + " bash";
-                database.insertNew("bash",hreh.get(i).getAttribute("href"),"bash",dateOfBashForFile.get(i));
-
-                database.updateLastDate(dateOfBashForFile.get(i), 1);
-            }*//*
         }
-    }*/
+
+    }
 }
 

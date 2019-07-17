@@ -19,6 +19,7 @@ public class Main {
 
         Methods.updatePopularity();
         Methods.getToHabr();
+        Methods.getToBash();
 
 
 

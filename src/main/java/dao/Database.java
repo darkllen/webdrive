@@ -42,7 +42,7 @@ public class Database {
 
     public ArrayList<String> getHrefs() throws SQLException {
         ArrayList<String> hrefs = new ArrayList<String>();
-        String query = "SELECT `href` from information";
+        String query = "SELECT `href` from information where `source`!='bash'";
         ResultSet rs = statement.executeQuery(query);
         while (rs.next()) {
             hrefs.add( rs.getString("href"));
