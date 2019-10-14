@@ -5,34 +5,19 @@
       <artifact name="webdrive:jar" />
     </artifacts-to-build>
   </component>
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/main/java/Methods.java" line="79" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a4e98eb-67a0-4af4-82f3-f569dad854eb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Mobile/app/src/main/java/com/example/mobile/ButtonAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/app/src/main/java/com/example/mobile/HttpRequests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/app/src/main/java/com/example/mobile/Info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/app/src/main/res/layout/maket.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/app/src/main/res/xml/network_security_config.xml" afterDir="false" />
+    <list default="true" id="2a4e98eb-67a0-4af4-82f3-f569dad854eb" name="Default" comment="add mobile app and bash">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mobile/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mobile/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mobile/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Mobile/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mobile/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mobile/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mobile/app/src/main/java/com/example/mobile/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mobile/app/src/main/java/com/example/mobile/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mobile/app/src/main/java/com/example/mobile/ui/main/PageViewModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mobile/app/src/main/java/com/example/mobile/ui/main/PlaceholderFragment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mobile/app/src/main/java/com/example/mobile/ui/main/SectionsPagerAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mobile/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mobile/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mobile/app/src/main/res/layout/fragment_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mobile/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mobile/app/src/main/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mobile/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mobile/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mobile/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mobile/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mobile/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Mobile/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mobile/app/src/main/java/com/example/mobile/ButtonAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mobile/app/src/main/java/com/example/mobile/ButtonAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mobile/app/src/main/res/layout/maket.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mobile/app/src/main/res/layout/maket.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/webdrive_jar/webdrive.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Methods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/dao/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dao/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Methods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dao/Database.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dao/Database.class" afterDir="false" />
     </list>
     <ignored path="webdrive.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,6 +33,20 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
@@ -59,25 +58,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Methods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="78" column="59" selection-start-line="78" selection-start-column="59" selection-end-line="78" selection-end-column="59" />
+            <state relative-caret-position="238">
+              <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="method#getToHabr#0;class#Methods#0" />
+                <element signature="e#1081#1565#1" />
+                <element signature="e#2107#2602#1" />
+                <element signature="method#getToBash#0;class#Methods#0" />
+                <element signature="method#updatePopularity#0;class#Methods#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="601">
-              <caret line="60" column="23" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/getHrefs.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
@@ -87,8 +82,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webdrive.iml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="60" column="23" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="23" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -112,26 +111,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/dao/Database.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="44" column="76" selection-start-line="44" selection-start-column="76" selection-end-line="44" selection-end-column="76" />
+            <state relative-caret-position="411">
+              <caret line="52" column="9" lean-forward="true" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/dao/Connect.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="12" column="69" lean-forward="true" selection-start-line="12" selection-start-column="69" selection-end-line="12" selection-end-column="69" />
+            <state relative-caret-position="425">
+              <caret line="28" column="5" selection-start-line="12" selection-start-column="3" selection-end-line="28" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+            <state relative-caret-position="167">
+              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -163,9 +167,9 @@
         <option value="$PROJECT_DIR$/read.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/getHrefs.php" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/dao/Database.java" />
         <option value="$PROJECT_DIR$/src/main/java/Methods.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
       </list>
     </option>
   </component>
@@ -207,17 +211,19 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="84" />
-    <option name="y" value="37" />
-    <option name="width" value="838" />
-    <option name="height" value="960" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="207" />
+    <option name="y" value="50" />
+    <option name="width" value="1549" />
+    <option name="height" value="965" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -244,50 +250,12 @@
             <path>
               <item name="webdrive" type="b2602c69:ProjectViewProjectNode" />
               <item name="webdrive" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-              <item name="webdrive_jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webdrive" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webdrive" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webdrive" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webdrive" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webdrive" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webdrive" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webdrive" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webdrive" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webdrive" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webdrive" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -295,7 +263,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556872290876" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../UniversityTasks/OKA" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -565,12 +533,24 @@
       <workItem from="1556803111441" duration="2104000" />
       <workItem from="1556872292869" duration="3185000" />
       <workItem from="1562279580056" duration="16174000" />
-      <workItem from="1563295939169" duration="9214000" />
+      <workItem from="1563295939169" duration="12616000" />
+      <workItem from="1565564935130" duration="8842000" />
+      <workItem from="1565897906605" duration="594000" />
+      <workItem from="1567699508526" duration="150000" />
+      <workItem from="1571048690620" duration="4628000" />
     </task>
+    <task id="LOCAL-00001" summary="add mobile app and bash">
+      <created>1563325333333</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563325333333</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="287650000" />
+    <option name="totallyTimeSpent" value="305266000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -582,10 +562,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="84" y="37" width="838" height="960" extended-state="0" />
-    <editor active="true" />
+    <frame x="207" y="50" width="1549" height="965" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21722364" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34318334" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Palette&#9;" order="3" />
@@ -594,7 +573,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4050786" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44831732" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39219934" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -602,7 +581,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32968238" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32858709" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32932165" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3192436" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.31852654" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -615,6 +594,7 @@
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Maven" order="9" />
+      <window_info anchor="right" id="Preview" order="10" weight="0.32995737" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -668,20 +648,18 @@
       <collection />
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add mobile app and bash" />
+    <option name="LAST_COMMIT_MESSAGE" value="add mobile app and bash" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/dao/Database.java</url>
-          <line>28</line>
+          <url>file://$PROJECT_DIR$/src/main/java/Methods.java</url>
+          <line>91</line>
           <properties />
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
-          <line>19</line>
-          <properties />
-          <option name="timeStamp" value="15" />
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/getHrefs.php</url>
@@ -719,9 +697,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Main_Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -747,9 +722,75 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/Connect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="28" column="5" selection-start-line="12" selection-start-column="3" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mobile/app/src/main/res/layout/maket.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mobile/app/src/main/java/com/example/mobile/ButtonAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="841">
+          <caret line="87" column="24" selection-start-line="87" selection-start-column="24" selection-end-line="87" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/main/resources/jsoup-1.11.3.jar!/org/jsoup/nodes/Document.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/Database.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="52" column="9" lean-forward="true" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Methods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getToHabr#0;class#Methods#0" />
+            <element signature="e#1081#1565#1" />
+            <element signature="e#2107#2602#1" />
+            <element signature="method#getToBash#0;class#Methods#0" />
+            <element signature="method#updatePopularity#0;class#Methods#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="601">
+        <state relative-caret-position="377">
           <caret line="60" column="23" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="23" />
         </state>
       </provider>
@@ -765,40 +806,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dao/Database.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="44" column="76" selection-start-line="44" selection-start-column="76" selection-end-line="44" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dao/Connect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="69" lean-forward="true" selection-start-line="12" selection-start-column="69" selection-end-line="12" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Methods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="78" column="59" selection-start-line="78" selection-start-column="59" selection-end-line="78" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

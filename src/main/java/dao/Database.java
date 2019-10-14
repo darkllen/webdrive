@@ -1,6 +1,7 @@
 package dao;
 
 import java.sql.*;
+import java.time.LocalDate;
 import java.util.ArrayList;
 
 /**
@@ -41,10 +42,13 @@ public class Database {
     }
 
     public ArrayList<String> getHrefs() throws SQLException {
-        ArrayList<String> hrefs = new ArrayList<String>();
-        String query = "SELECT `href` from information where `source`!='bash'";
+        ArrayList<String> hrefs = new ArrayList<>();
+        String query = "SELECT `href`, `time` from information where `source`!='bash'";
         ResultSet rs = statement.executeQuery(query);
         while (rs.next()) {
+            Date date = Date.valueOf(LocalDate.now().minusDays(3));
+            Date infDate = rs.getDate("time");
+            if (date.compareTo(infDate)<0)
             hrefs.add( rs.getString("href"));
         }
         return hrefs;

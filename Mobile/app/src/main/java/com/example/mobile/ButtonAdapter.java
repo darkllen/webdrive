@@ -48,16 +48,13 @@ public class ButtonAdapter extends RecyclerView.Adapter<ButtonAdapter.InfoViewHo
     @Override
     public ButtonAdapter.InfoViewHolder onCreateViewHolder(@NonNull ViewGroup viewGroup, int i) {
         View v = LayoutInflater.from(viewGroup.getContext()).inflate(R.layout.maket, viewGroup, false);
-        InfoViewHolder pvh = new InfoViewHolder(v);
-        return pvh;
+        return new InfoViewHolder(v);
     }
 
     @Override
     public void onBindViewHolder(@NonNull ButtonAdapter.InfoViewHolder infoViewHolder, int i) {
         infoViewHolder.hrefButton.setText(infos.get(i).getName());
         infoViewHolder.hrefButton.setOnClickListener(x->{
-
-            int a = i;
 
             infoViewHolder.main.removeView(infoViewHolder.cv);
 
@@ -68,8 +65,9 @@ public class ButtonAdapter extends RecyclerView.Adapter<ButtonAdapter.InfoViewHo
             while (httpRequests.isAlive()){}
 
             Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse(infos.get(i).getHref()));
-            activity.startActivity(browserIntent);
             infos.remove(i);
+            activity.startActivity(browserIntent);
+
         });
         infoViewHolder.revealLayout.setSwipeListener(new SwipeRevealLayout.SwipeListener() {
             @Override
